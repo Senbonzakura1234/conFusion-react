@@ -1,5 +1,5 @@
 {
-	"name": "cherry-template",
+	"name": "conFusion-react",
 	"version": "0.1.0",
 	"private": true,
 	"author": "Senbonzakura1234 <anhdungpham090@gmail.com>",
@@ -9,15 +9,15 @@
 		"github": {
 			"type": "git",
 			"url": {
-				"https": "https://github.com/Senbonzakura1234/cherry-template.git",
-				"ssh": "git@github.com:Senbonzakura1234/cherry-template.git"
+				"https": "https://github.com/Senbonzakura1234/conFusion-react.git",
+				"ssh": "git@github.com:Senbonzakura1234/conFusion-react.git"
 			}
 		},
 		"gitlab": {
 			"type": "git",
 			"url": {
-				"https": "https://gitlab.com/Senbonzakura1234/cherry-template.git",
-				"ssh": "git@gitlab.com:Senbonzakura1234/cherry-template.git"
+				"https": "https://gitlab.com/Senbonzakura1234/conFusion-react.git",
+				"ssh": "git@gitlab.com:Senbonzakura1234/conFusion-react.git"
 			}
 		}
 	},

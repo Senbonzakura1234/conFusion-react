@@ -1,4 +1,4 @@
-export const APP_NAME = 'Cherry Template';
+export const APP_NAME = 'ConFusion React';
 
 export const CUSTOM_PROPERTIES: PropertyDefinition[] = [
 	{

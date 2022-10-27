@@ -1,4 +1,4 @@
-# [Cherry Template](https://github.com/Senbonzakura1234/cherry-template.git)
+# [ConFusion React](https://github.com/Senbonzakura1234/conFusion-react.git)
 
 ## Description
 
@@ -34,11 +34,11 @@ A simple chess app created with React and Tailwind
 
 ```bash
 
-git remote add origin git@github.com:Senbonzakura1234/cherry-template.git
+git remote add origin git@github.com:Senbonzakura1234/conFusion-react.git
 
-git remote set-url --add --push origin git@gitlab.com:Senbonzakura1234/cherry-template.git
+git remote set-url --add --push origin git@gitlab.com:Senbonzakura1234/conFusion-react.git
 
-git remote set-url --add --push origin git@github.com:Senbonzakura1234/cherry-template.git
+git remote set-url --add --push origin git@github.com:Senbonzakura1234/conFusion-react.git
 
 git remote -v
 
@@ -48,11 +48,11 @@ git remote -v
 
 ```bash
 
-git remote add origin https://github.com/Senbonzakura1234/cherry-template.git
+git remote add origin https://github.com/Senbonzakura1234/conFusion-react.git
 
-git remote set-url --add --push origin https://gitlab.com/Senbonzakura1234/cherry-template.git
+git remote set-url --add --push origin https://gitlab.com/Senbonzakura1234/conFusion-react.git
 
-git remote set-url --add --push origin https://github.com/Senbonzakura1234/cherry-template.git
+git remote set-url --add --push origin https://github.com/Senbonzakura1234/conFusion-react.git
 
 git remote -v
 
