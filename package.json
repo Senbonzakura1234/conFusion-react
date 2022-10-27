@@ -1,0 +1,77 @@
+{
+	"name": "cherry-template",
+	"version": "0.1.0",
+	"private": true,
+	"author": "Senbonzakura1234 <anhdungpham090@gmail.com>",
+	"license": "MIT",
+	"description": "A simple chess app created with React and Tailwind",
+	"repository": {
+		"github": {
+			"type": "git",
+			"url": {
+				"https": "https://github.com/Senbonzakura1234/cherry-template.git",
+				"ssh": "git@github.com:Senbonzakura1234/cherry-template.git"
+			}
+		},
+		"gitlab": {
+			"type": "git",
+			"url": {
+				"https": "https://gitlab.com/Senbonzakura1234/cherry-template.git",
+				"ssh": "git@gitlab.com:Senbonzakura1234/cherry-template.git"
+			}
+		}
+	},
+	"type": "module",
+	"scripts": {
+		"check-types": "tsc --noemit",
+		"build": "tsc && vite build",
+		"dev": "vite --host",
+		"lint": "eslint . --ext .ts,.tsx",
+		"lint:fix": "eslint . --ext .ts,.tsx --fix",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"clsx": "^1.2.1",
+		"daisyui": "^2.31.0",
+		"immer": "^9.0.15",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-router-dom": "^6.4.1",
+		"tabler-icons-react": "^1.55.0",
+		"vite-tsconfig-paths": "^3.5.1",
+		"zustand": "^4.1.2"
+	},
+	"devDependencies": {
+		"@tailwindcss/typography": "^0.5.7",
+		"@types/chess.js": "^0.13.3",
+		"@types/eslint": "^8.4.6",
+		"@types/react": "^18.0.17",
+		"@types/react-dom": "^18.0.6",
+		"@types/supports-color": "^8.1.1",
+		"@typescript-eslint/eslint-plugin": "^5.38.0",
+		"@typescript-eslint/parser": "^5.38.0",
+		"@vitejs/plugin-react": "^2.1.0",
+		"autoprefixer": "^10.4.12",
+		"editorconfig": "^0.15.3",
+		"eslint": "^8.24.0",
+		"eslint-config-prettier": "^8.5.0",
+		"eslint-import-resolver-alias": "^1.1.2",
+		"eslint-import-resolver-typescript": "^3.5.1",
+		"eslint-plugin-html": "^7.1.0",
+		"eslint-plugin-import": "^2.26.0",
+		"eslint-plugin-json": "^3.1.0",
+		"eslint-plugin-markdown": "^3.0.0",
+		"eslint-plugin-prettier": "^4.2.1",
+		"eslint-plugin-react": "^7.31.8",
+		"eslint-plugin-react-hooks": "^4.6.0",
+		"eslint-plugin-tailwindcss": "^3.6.2",
+		"postcss": "^8.4.16",
+		"prettier": "^2.7.1",
+		"tailwindcss": "^3.1.8",
+		"typescript": "^4.6.4",
+		"vite": "^3.1.0",
+		"vite-plugin-pwa": "^0.13.1",
+		"workbox-window": "^6.5.4"
+	},
+	"packageManager": "yarn@3.2.3"
+}
